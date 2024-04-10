@@ -9,8 +9,9 @@
 
 1
 
-![28c54d45-1ee5-4629-8e3c-978de4302408.png](https://img3.teletype.in/files/28/c5/28c54d45-1ee5-4629-8e3c-978de4302408.png)  
-Заходим на хостинг и проходим [регистрацию](https://pq.hosting/?from=541588)
+![28c54d45-1ee5-4629-8e3c-978de4302408.png](https://img3.teletype.in/files/28/c5/28c54d45-1ee5-4629-8e3c-978de4302408.png) 
+
+Заходим на хостинг и проходим [регистрацию](https://pq.hosting/)
 
 ---
 
@@ -28,15 +29,18 @@
 
 4
 
-![24d18429-5fbb-473f-8cbf-a31dce1f72c3.png](https://img3.teletype.in/files/24/d1/24d18429-5fbb-473f-8cbf-a31dce1f72c3.png)  
-Выбираем операционную систему Ubuntu 20.04 и переходим в корзину  
+![24d18429-5fbb-473f-8cbf-a31dce1f72c3.png](https://img3.teletype.in/files/24/d1/24d18429-5fbb-473f-8cbf-a31dce1f72c3.png) 
+
+Выбираем операционную систему Ubuntu 20.04 и переходим в корзину 
+
 ![1b476625-9869-4c80-9dbf-4c73f8996102.png](https://img2.teletype.in/files/1b/47/1b476625-9869-4c80-9dbf-4c73f8996102.png)
 
 ---
 
 5
 
-![d45dabb4-394e-418d-a37b-b495faf44619.png](https://img2.teletype.in/files/d4/5d/d45dabb4-394e-418d-a37b-b495faf44619.png)  
+![d45dabb4-394e-418d-a37b-b495faf44619.png](https://img2.teletype.in/files/d4/5d/d45dabb4-394e-418d-a37b-b495faf44619.png) 
+
 Оплачиваем удобным способом
 
 ---
@@ -49,12 +53,5 @@
 
 ---
 
-Далее [Самостоятельное задание №4](https://hackmd.io/NJPcxw3CQoepbMBYrOPSMA)
+Далее [[Pages/Chapter 6/Subpages/Самостоятельное задание №4\|Самостоятельное задание №4]]
 
-1. [Оглавление](https://hackmd.io/_jJSNrZSRYKfaVAo1c4-Mw)
-    - 1.1 [Фундамент](https://hackmd.io/xvWl5vEBRb-fJtuEiAsTdA)
-    - 1.2 [Работа с кошельками и соцсетями](https://hackmd.io/xgwypxNlRIaXegOf668-DQ)
-    - 1.3 [Тестовые сети](https://hackmd.io/QDzzknJESnq6ENSwcyItpw)
-    - 1.4 [Ретродропы](https://hackmd.io/AIV8k_YTTFeDNv7Pk6fJiA)
-    - 1.5 [Все о нодах](https://hackmd.io/xNGaD3HaR6SMOE6QmhQLsg)
-    - 1.6 [Все о хостингах](https://hackmd.io/TxAsRlSmRvCvhELTQZTmFA)
